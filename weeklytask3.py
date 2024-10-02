@@ -1,5 +1,5 @@
 usr=[{'name': 'aslam', 'id': 101, 'email': 'asd@', 'phoneno': 12345, 'password': 'asd123','dress':[]}]
-mwr=[{'dress': 'asdf', 'id': 10, 'stock': 15, 'size': 'xl', 'price': 300},{'dress': 'asdf', 'id': 11, 'stock': 15, 'size':'m', 'price': 30}]
+mwr=[{'dress': 'shirt', 'id': 10, 'stock': 15, 'size': 'xl', 'price': 3000},{'dress': 'Jeans', 'id': 11, 'stock': 15, 'size':'m', 'price': 3500}]
 def register():
     if len(usr)==0:
         id=101
